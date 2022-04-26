@@ -319,7 +319,7 @@
 
 [bronze]
 	#Set to true to disable bronze weapons
-	disable = false
+	disable = true
 	#Durability for bronze weapons
 	#Range: 1 ~ 100000
 	durability = 320
@@ -349,7 +349,7 @@
 
 [invar]
 	#Set to true to disable invar weapons
-	disable = false
+	disable = true
 	#Durability for invar weapons
 	#Range: 1 ~ 100000
 	durability = 440
@@ -369,7 +369,7 @@
 
 [electrum]
 	#Set to true to disable electrum weapons
-	disable = false
+	disable = true
 	#Durability for electrum weapons
 	#Range: 1 ~ 100000
 	durability = 180
@@ -379,7 +379,7 @@
 
 [nickel]
 	#Set to true to disable nickel weapons
-	disable = false
+	disable = true
 	#Durability for nickel weapons
 	#Range: 1 ~ 100000
 	durability = 200
