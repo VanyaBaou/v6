@@ -506,20 +506,6 @@
 			}]
 			rewards: [
 				{
-					id: "7A962AE3F44AEBF4"
-					type: "item"
-					item: {
-						id: "thermal:silver_nugget"
-						Count: 1b
-						ForgeCaps: {
-							"dungeons_libraries:built_in_enchantments": {
-								BuiltInEnchantments: [ ]
-							}
-						}
-					}
-					random_bonus: 10
-				}
-				{
 					id: "01B93EDDF0236E32"
 					type: "xp"
 					xp: 100
@@ -541,19 +527,6 @@
 					type: "item"
 					item: {
 						id: "minecraft:gold_nugget"
-						Count: 1b
-						ForgeCaps: {
-							"dungeons_libraries:built_in_enchantments": {
-								BuiltInEnchantments: [ ]
-							}
-						}
-					}
-				}
-				{
-					id: "05026B651FF137B1"
-					type: "item"
-					item: {
-						id: "thermal:gold_coin"
 						Count: 1b
 						ForgeCaps: {
 							"dungeons_libraries:built_in_enchantments": {
@@ -598,19 +571,6 @@
 					}
 				}
 				{
-					id: "39A24A41B436C5D1"
-					type: "item"
-					item: {
-						id: "thermal:gold_coin"
-						Count: 1b
-						ForgeCaps: {
-							"dungeons_libraries:built_in_enchantments": {
-								BuiltInEnchantments: [ ]
-							}
-						}
-					}
-				}
-				{
 					id: "40F0AE3F28DF13F1"
 					type: "ftbmoney:money"
 					ftb_money: 5L
@@ -637,19 +597,6 @@
 					type: "item"
 					item: {
 						id: "minecraft:gold_nugget"
-						Count: 1b
-						ForgeCaps: {
-							"dungeons_libraries:built_in_enchantments": {
-								BuiltInEnchantments: [ ]
-							}
-						}
-					}
-				}
-				{
-					id: "0EC277408EFEB882"
-					type: "item"
-					item: {
-						id: "thermal:gold_coin"
 						Count: 1b
 						ForgeCaps: {
 							"dungeons_libraries:built_in_enchantments": {
@@ -694,19 +641,6 @@
 					}
 				}
 				{
-					id: "54839FABD386BDA3"
-					type: "item"
-					item: {
-						id: "thermal:gold_coin"
-						Count: 1b
-						ForgeCaps: {
-							"dungeons_libraries:built_in_enchantments": {
-								BuiltInEnchantments: [ ]
-							}
-						}
-					}
-				}
-				{
 					id: "5CF0B949C5B54973"
 					type: "ftbmoney:money"
 					ftb_money: 5L
@@ -742,19 +676,6 @@
 					}
 				}
 				{
-					id: "6F293922ABA866FE"
-					type: "item"
-					item: {
-						id: "thermal:gold_coin"
-						Count: 1b
-						ForgeCaps: {
-							"dungeons_libraries:built_in_enchantments": {
-								BuiltInEnchantments: [ ]
-							}
-						}
-					}
-				}
-				{
 					id: "6182441190D1D50C"
 					type: "ftbmoney:money"
 					ftb_money: 5L
@@ -777,20 +698,6 @@
 			}]
 			rewards: [
 				{
-					id: "13193F184AC5E9C7"
-					type: "item"
-					item: {
-						id: "thermal:silver_nugget"
-						Count: 1b
-						ForgeCaps: {
-							"dungeons_libraries:built_in_enchantments": {
-								BuiltInEnchantments: [ ]
-							}
-						}
-					}
-					random_bonus: 10
-				}
-				{
 					id: "79C462D80DE8AD70"
 					type: "xp"
 					xp: 100
@@ -812,19 +719,6 @@
 					type: "item"
 					item: {
 						id: "minecraft:gold_nugget"
-						Count: 1b
-						ForgeCaps: {
-							"dungeons_libraries:built_in_enchantments": {
-								BuiltInEnchantments: [ ]
-							}
-						}
-					}
-				}
-				{
-					id: "13795AE7C072EA34"
-					type: "item"
-					item: {
-						id: "thermal:gold_coin"
 						Count: 1b
 						ForgeCaps: {
 							"dungeons_libraries:built_in_enchantments": {
@@ -869,19 +763,6 @@
 					}
 				}
 				{
-					id: "30DA8CDF348E3286"
-					type: "item"
-					item: {
-						id: "thermal:gold_coin"
-						Count: 1b
-						ForgeCaps: {
-							"dungeons_libraries:built_in_enchantments": {
-								BuiltInEnchantments: [ ]
-							}
-						}
-					}
-				}
-				{
 					id: "208214C90DD2D94F"
 					type: "ftbmoney:money"
 					ftb_money: 5L
@@ -908,19 +789,6 @@
 					type: "item"
 					item: {
 						id: "minecraft:gold_nugget"
-						Count: 1b
-						ForgeCaps: {
-							"dungeons_libraries:built_in_enchantments": {
-								BuiltInEnchantments: [ ]
-							}
-						}
-					}
-				}
-				{
-					id: "7FC328E37419B8E5"
-					type: "item"
-					item: {
-						id: "thermal:gold_coin"
 						Count: 1b
 						ForgeCaps: {
 							"dungeons_libraries:built_in_enchantments": {
@@ -965,19 +833,6 @@
 					}
 				}
 				{
-					id: "04769B52573C378B"
-					type: "item"
-					item: {
-						id: "thermal:gold_coin"
-						Count: 1b
-						ForgeCaps: {
-							"dungeons_libraries:built_in_enchantments": {
-								BuiltInEnchantments: [ ]
-							}
-						}
-					}
-				}
-				{
 					id: "403B7CAC5340D224"
 					type: "ftbmoney:money"
 					ftb_money: 5L
@@ -1004,19 +859,6 @@
 					type: "item"
 					item: {
 						id: "minecraft:gold_nugget"
-						Count: 1b
-						ForgeCaps: {
-							"dungeons_libraries:built_in_enchantments": {
-								BuiltInEnchantments: [ ]
-							}
-						}
-					}
-				}
-				{
-					id: "7FF457E049FD30BF"
-					type: "item"
-					item: {
-						id: "thermal:gold_coin"
 						Count: 1b
 						ForgeCaps: {
 							"dungeons_libraries:built_in_enchantments": {
@@ -1053,19 +895,6 @@
 					type: "item"
 					item: {
 						id: "aquaculture:treasure_chest"
-						Count: 1b
-						ForgeCaps: {
-							"dungeons_libraries:built_in_enchantments": {
-								BuiltInEnchantments: [ ]
-							}
-						}
-					}
-				}
-				{
-					id: "61DDC00DE3FB56F0"
-					type: "item"
-					item: {
-						id: "thermal:gold_coin"
 						Count: 1b
 						ForgeCaps: {
 							"dungeons_libraries:built_in_enchantments": {
@@ -1126,19 +955,6 @@
 					}
 				}
 				{
-					id: "54D500AF336C94E5"
-					type: "item"
-					item: {
-						id: "thermal:gold_coin"
-						Count: 1b
-						ForgeCaps: {
-							"dungeons_libraries:built_in_enchantments": {
-								BuiltInEnchantments: [ ]
-							}
-						}
-					}
-				}
-				{
 					id: "5C60E1439FBCA98F"
 					type: "ftbmoney:money"
 					ftb_money: 5L
@@ -1161,20 +977,6 @@
 			}]
 			rewards: [
 				{
-					id: "29D47A0603B14D41"
-					type: "item"
-					item: {
-						id: "thermal:silver_nugget"
-						Count: 1b
-						ForgeCaps: {
-							"dungeons_libraries:built_in_enchantments": {
-								BuiltInEnchantments: [ ]
-							}
-						}
-					}
-					random_bonus: 10
-				}
-				{
 					id: "750ED35E7097D19D"
 					type: "xp"
 					xp: 100
@@ -1196,19 +998,6 @@
 					type: "item"
 					item: {
 						id: "minecraft:gold_nugget"
-						Count: 1b
-						ForgeCaps: {
-							"dungeons_libraries:built_in_enchantments": {
-								BuiltInEnchantments: [ ]
-							}
-						}
-					}
-				}
-				{
-					id: "793190F44EFA4070"
-					type: "item"
-					item: {
-						id: "thermal:gold_coin"
 						Count: 1b
 						ForgeCaps: {
 							"dungeons_libraries:built_in_enchantments": {
@@ -1253,19 +1042,6 @@
 					}
 				}
 				{
-					id: "6C81C43E2EC84107"
-					type: "item"
-					item: {
-						id: "thermal:gold_coin"
-						Count: 1b
-						ForgeCaps: {
-							"dungeons_libraries:built_in_enchantments": {
-								BuiltInEnchantments: [ ]
-							}
-						}
-					}
-				}
-				{
 					id: "4ED801704598B219"
 					type: "ftbmoney:money"
 					ftb_money: 5L
@@ -1292,19 +1068,6 @@
 					type: "item"
 					item: {
 						id: "minecraft:gold_nugget"
-						Count: 1b
-						ForgeCaps: {
-							"dungeons_libraries:built_in_enchantments": {
-								BuiltInEnchantments: [ ]
-							}
-						}
-					}
-				}
-				{
-					id: "0F55B93D23A81B7C"
-					type: "item"
-					item: {
-						id: "thermal:gold_coin"
 						Count: 1b
 						ForgeCaps: {
 							"dungeons_libraries:built_in_enchantments": {
@@ -1349,19 +1112,6 @@
 					}
 				}
 				{
-					id: "226D7598A5841414"
-					type: "item"
-					item: {
-						id: "thermal:gold_coin"
-						Count: 1b
-						ForgeCaps: {
-							"dungeons_libraries:built_in_enchantments": {
-								BuiltInEnchantments: [ ]
-							}
-						}
-					}
-				}
-				{
 					id: "6A5A5D5E633FE5D9"
 					type: "ftbmoney:money"
 					ftb_money: 5L
@@ -1384,19 +1134,6 @@
 			}]
 			rewards: [
 				{
-					id: "331CAE67D6F2D98E"
-					type: "item"
-					item: {
-						id: "thermal:silver_nugget"
-						Count: 1b
-						ForgeCaps: {
-							"dungeons_libraries:built_in_enchantments": {
-								BuiltInEnchantments: [ ]
-							}
-						}
-					}
-				}
-				{
 					id: "389148B170824AE7"
 					type: "xp"
 					xp: 100
@@ -1418,19 +1155,6 @@
 					type: "item"
 					item: {
 						id: "minecraft:gold_nugget"
-						Count: 1b
-						ForgeCaps: {
-							"dungeons_libraries:built_in_enchantments": {
-								BuiltInEnchantments: [ ]
-							}
-						}
-					}
-				}
-				{
-					id: "335A4A4DF266099B"
-					type: "item"
-					item: {
-						id: "thermal:gold_coin"
 						Count: 1b
 						ForgeCaps: {
 							"dungeons_libraries:built_in_enchantments": {
@@ -1475,19 +1199,6 @@
 					}
 				}
 				{
-					id: "603F93DE904F9BD8"
-					type: "item"
-					item: {
-						id: "thermal:gold_coin"
-						Count: 1b
-						ForgeCaps: {
-							"dungeons_libraries:built_in_enchantments": {
-								BuiltInEnchantments: [ ]
-							}
-						}
-					}
-				}
-				{
 					id: "4385E7FE0E32D79F"
 					type: "ftbmoney:money"
 					ftb_money: 5L
@@ -1514,19 +1225,6 @@
 					type: "item"
 					item: {
 						id: "minecraft:gold_nugget"
-						Count: 1b
-						ForgeCaps: {
-							"dungeons_libraries:built_in_enchantments": {
-								BuiltInEnchantments: [ ]
-							}
-						}
-					}
-				}
-				{
-					id: "00E09F8940FBFA23"
-					type: "item"
-					item: {
-						id: "thermal:gold_coin"
 						Count: 1b
 						ForgeCaps: {
 							"dungeons_libraries:built_in_enchantments": {
@@ -1571,19 +1269,6 @@
 					}
 				}
 				{
-					id: "4084D8E437E5F3E4"
-					type: "item"
-					item: {
-						id: "thermal:gold_coin"
-						Count: 1b
-						ForgeCaps: {
-							"dungeons_libraries:built_in_enchantments": {
-								BuiltInEnchantments: [ ]
-							}
-						}
-					}
-				}
-				{
 					id: "3D412435B5D93A09"
 					type: "ftbmoney:money"
 					ftb_money: 5L
@@ -1619,19 +1304,6 @@
 					}
 				}
 				{
-					id: "27D754DA8076B506"
-					type: "item"
-					item: {
-						id: "thermal:gold_coin"
-						Count: 1b
-						ForgeCaps: {
-							"dungeons_libraries:built_in_enchantments": {
-								BuiltInEnchantments: [ ]
-							}
-						}
-					}
-				}
-				{
 					id: "768444FB16DD8CD7"
 					type: "ftbmoney:money"
 					ftb_money: 5L
@@ -1654,20 +1326,6 @@
 			}]
 			rewards: [
 				{
-					id: "39CFD28ED5CA2B8D"
-					type: "item"
-					item: {
-						id: "thermal:silver_nugget"
-						Count: 1b
-						ForgeCaps: {
-							"dungeons_libraries:built_in_enchantments": {
-								BuiltInEnchantments: [ ]
-							}
-						}
-					}
-					random_bonus: 10
-				}
-				{
 					id: "25CFA54926DBD601"
 					type: "xp"
 					xp: 100
@@ -1689,19 +1347,6 @@
 					type: "item"
 					item: {
 						id: "minecraft:gold_nugget"
-						Count: 1b
-						ForgeCaps: {
-							"dungeons_libraries:built_in_enchantments": {
-								BuiltInEnchantments: [ ]
-							}
-						}
-					}
-				}
-				{
-					id: "725291F7BF7F336C"
-					type: "item"
-					item: {
-						id: "thermal:gold_coin"
 						Count: 1b
 						ForgeCaps: {
 							"dungeons_libraries:built_in_enchantments": {
@@ -1746,19 +1391,6 @@
 					}
 				}
 				{
-					id: "640468532CCB148F"
-					type: "item"
-					item: {
-						id: "thermal:gold_coin"
-						Count: 1b
-						ForgeCaps: {
-							"dungeons_libraries:built_in_enchantments": {
-								BuiltInEnchantments: [ ]
-							}
-						}
-					}
-				}
-				{
 					id: "35BBC5E982D3CE66"
 					type: "ftbmoney:money"
 					ftb_money: 5L
@@ -1785,19 +1417,6 @@
 					type: "item"
 					item: {
 						id: "minecraft:gold_nugget"
-						Count: 1b
-						ForgeCaps: {
-							"dungeons_libraries:built_in_enchantments": {
-								BuiltInEnchantments: [ ]
-							}
-						}
-					}
-				}
-				{
-					id: "586468E75F2F6A6C"
-					type: "item"
-					item: {
-						id: "thermal:gold_coin"
 						Count: 1b
 						ForgeCaps: {
 							"dungeons_libraries:built_in_enchantments": {
@@ -1842,19 +1461,6 @@
 					}
 				}
 				{
-					id: "58EDB24E6C1E4100"
-					type: "item"
-					item: {
-						id: "thermal:gold_coin"
-						Count: 1b
-						ForgeCaps: {
-							"dungeons_libraries:built_in_enchantments": {
-								BuiltInEnchantments: [ ]
-							}
-						}
-					}
-				}
-				{
 					id: "167267C4824FA310"
 					type: "ftbmoney:money"
 					ftb_money: 5L
@@ -1881,19 +1487,6 @@
 					type: "item"
 					item: {
 						id: "minecraft:gold_nugget"
-						Count: 1b
-						ForgeCaps: {
-							"dungeons_libraries:built_in_enchantments": {
-								BuiltInEnchantments: [ ]
-							}
-						}
-					}
-				}
-				{
-					id: "3E7FD9B8260A464A"
-					type: "item"
-					item: {
-						id: "thermal:gold_coin"
 						Count: 1b
 						ForgeCaps: {
 							"dungeons_libraries:built_in_enchantments": {

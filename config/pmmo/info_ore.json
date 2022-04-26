@@ -527,50 +527,6 @@
 	{
 		"extraChance": 0.75
 	},
-	"thermal:apatite_ore":
-	{
-		"extraChance": 1
-	},
-	"thermal:cinnabar_ore":
-	{
-		"extraChance": 0.5
-	},
-	"thermal:copper_ore":
-	{
-		"extraChance": 0.8
-	},
-	"thermal:lead_ore":
-	{
-		"extraChance": 0.5
-	},
-	"thermal:nickel_ore":
-	{
-		"extraChance": 0.35
-	},
-	"thermal:niter_ore":
-	{
-		"extraChance": 1
-	},
-	"thermal:ruby_ore":
-	{
-		"extraChance": 0.75
-	},
-	"thermal:sapphire_ore":
-	{
-		"extraChance": 0.75
-	},
-	"thermal:silver_ore":
-	{
-		"extraChance": 0.5
-	},
-	"thermal:sulfur_ore":
-	{
-		"extraChance": 1
-	},
-	"thermal:tin_ore":
-	{
-		"extraChance": 0.75
-	},
 	"tmechworks:aluminum_ore":
 	{
 		"extraChance": 0.75

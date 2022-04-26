@@ -3751,18 +3751,6 @@
       630,
       2.96
     ],
-    "thermal:beekeeper_boots": [
-      917,
-      0.664
-    ],
-    "thermal:diving_boots": [
-      810,
-      1.52
-    ],
-    "thermal:hazmat_boots": [
-      880,
-      0.96
-    ],
     "tropicraft:fire_boots": [
       939,
       0.488
@@ -4280,18 +4268,6 @@
     "the_afterlight:moonsteel_armor_leggings": [
       630,
       2.96
-    ],
-    "thermal:beekeeper_leggings": [
-      917,
-      0.664
-    ],
-    "thermal:diving_leggings": [
-      810,
-      1.52
-    ],
-    "thermal:hazmat_leggings": [
-      880,
-      0.96
     ],
     "tropicraft:fire_leggings": [
       939,
@@ -5038,18 +5014,6 @@
     "the_afterlight:moonsteel_armor_chestplate": [
       630,
       2.96
-    ],
-    "thermal:beekeeper_chestplate": [
-      917,
-      0.664
-    ],
-    "thermal:diving_chestplate": [
-      810,
-      1.52
-    ],
-    "thermal:hazmat_chestplate": [
-      880,
-      0.96
     ],
     "tropicraft:fire_chestplate": [
       939,
@@ -5972,18 +5936,6 @@
     "the_afterlight:moonsteel_armor_helmet": [
       630,
       2.96
-    ],
-    "thermal:beekeeper_helmet": [
-      917,
-      0.664
-    ],
-    "thermal:diving_helmet": [
-      810,
-      1.52
-    ],
-    "thermal:hazmat_helmet": [
-      880,
-      0.96
     ],
     "tropicraft:ashen_mask_bat_boy": [
       973,

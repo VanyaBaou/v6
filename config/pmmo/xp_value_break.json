@@ -964,58 +964,6 @@
 	{
 		"mining": 2
 	},
-	"thermal:oil_sand":
-	{
-		"excavation": 1
-	},
-	"thermal:oil_red_sand":
-	{
-		"excavation": 1
-	},
-	"thermal:apatite_ore":
-	{
-		"mining": 1
-	},
-	"thermal:cinnabar_ore":
-	{
-		"mining": 2
-	},
-	"thermal:copper_ore":
-	{
-		"mining": 2
-	},
-	"thermal:lead_ore":
-	{
-		"mining": 3
-	},
-	"thermal:nickel_ore":
-	{
-		"mining": 3
-	},
-	"thermal:niter_ore":
-	{
-		"mining": 1
-	},
-	"thermal:ruby_ore":
-	{
-		"mining": 5
-	},
-	"thermal:sapphire_ore":
-	{
-		"mining": 5
-	},
-	"thermal:silver_ore":
-	{
-		"mining": 3
-	},
-	"thermal:sulfur_ore":
-	{
-		"mining": 3
-	},
-	"thermal:tin_ore":
-	{
-		"mining": 3
-	},
 	"tmechworks:aluminum_ore":
 	{
 		"mining": 8

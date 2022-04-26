@@ -2833,7 +2833,7 @@
 	},
 	"iceandfire:silver_axe":
 	{
-		"thermal:silver_ingot":
+		"iceandfire:silver_ingot":
 		{
 			"salvageMax": 3,
 			"baseChance": 15,
@@ -2845,7 +2845,7 @@
 	},
 	"iceandfire:silver_boots":
 	{
-		"thermal:silver_ingot":
+		"iceandfire:silver_ingot":
 		{
 			"salvageMax": 4,
 			"baseChance": 15,
@@ -2857,7 +2857,7 @@
 	},
 	"iceandfire:silver_chestplate":
 	{
-		"thermal:silver_ingot":
+		"iceandfire:silver_ingot":
 		{
 			"salvageMax": 8,
 			"baseChance": 15,
@@ -2869,7 +2869,7 @@
 	},
 	"iceandfire:silver_helmet":
 	{
-		"thermal:silver_ingot":
+		"iceandfire:silver_ingot":
 		{
 			"salvageMax": 5,
 			"baseChance": 15,
@@ -2881,7 +2881,7 @@
 	},
 	"iceandfire:silver_hoe":
 	{
-		"thermal:silver_ingot":
+		"iceandfire:silver_ingot":
 		{
 			"salvageMax": 2,
 			"baseChance": 15,
@@ -2893,7 +2893,7 @@
 	},
 	"iceandfire:silver_horse_armor":
 	{
-		"thermal:silver_ingot":
+		"iceandfire:silver_ingot":
 		{
 			"salvageMax": 7,
 			"baseChance": 15,
@@ -2905,7 +2905,7 @@
 	},
 	"iceandfire:silver_leggings":
 	{
-		"thermal:silver_ingot":
+		"iceandfire:silver_ingot":
 		{
 			"salvageMax": 7,
 			"baseChance": 15,
@@ -2917,7 +2917,7 @@
 	},
 	"iceandfire:silver_pickaxe":
 	{
-		"thermal:silver_ingot":
+		"iceandfire:silver_ingot":
 		{
 			"salvageMax": 3,
 			"baseChance": 15,
@@ -2929,7 +2929,7 @@
 	},
 	"iceandfire:silver_shovel":
 	{
-		"thermal:silver_ingot":
+		"iceandfire:silver_ingot":
 		{
 			"salvageMax": 1,
 			"baseChance": 15,
@@ -2941,733 +2941,13 @@
 	},
 	"iceandfire:silver_sword":
 	{
-		"thermal:silver_ingot":
+		"iceandfire:silver_ingot":
 		{
 			"salvageMax": 2,
 			"baseChance": 15,
 			"chancePerLevel": 0.75,
 			"maxChance": 80,
 			"xpPerItem": 35,
-			"levelReq": 30
-		}
-	},
-	"mekanismtools:bronze_axe":
-	{
-		"thermal:bronze_ingot":
-		{
-			"salvageMax": 3,
-			"baseChance": 15,
-			"chancePerLevel": 0.75,
-			"maxChance": 80,
-			"xpPerItem": 35,
-			"levelReq": 30
-		}
-	},
-	"mekanismtools:bronze_boots":
-	{
-		"thermal:bronze_ingot":
-		{
-			"salvageMax": 4,
-			"baseChance": 15,
-			"chancePerLevel": 0.75,
-			"maxChance": 80,
-			"xpPerItem": 35,
-			"levelReq": 30
-		}
-	},
-	"mekanismtools:bronze_chestplate":
-	{
-		"thermal:bronze_ingot":
-		{
-			"salvageMax": 8,
-			"baseChance": 15,
-			"chancePerLevel": 0.75,
-			"maxChance": 80,
-			"xpPerItem": 35,
-			"levelReq": 30
-		}
-	},
-	"mekanismtools:bronze_helmet":
-	{
-		"thermal:bronze_ingot":
-		{
-			"salvageMax": 5,
-			"baseChance": 15,
-			"chancePerLevel": 0.75,
-			"maxChance": 80,
-			"xpPerItem": 35,
-			"levelReq": 30
-		}
-	},
-	"mekanismtools:bronze_hoe":
-	{
-		"thermal:bronze_ingot":
-		{
-			"salvageMax": 2,
-			"baseChance": 15,
-			"chancePerLevel": 0.75,
-			"maxChance": 80,
-			"xpPerItem": 35,
-			"levelReq": 30
-		}
-	},
-	"mekanismtools:bronze_horse_armor":
-	{
-		"thermal:bronze_ingot":
-		{
-			"salvageMax": 7,
-			"baseChance": 15,
-			"chancePerLevel": 0.75,
-			"maxChance": 80,
-			"xpPerItem": 35,
-			"levelReq": 30
-		}
-	},
-	"mekanismtools:bronze_leggings":
-	{
-		"thermal:bronze_ingot":
-		{
-			"salvageMax": 7,
-			"baseChance": 15,
-			"chancePerLevel": 0.75,
-			"maxChance": 80,
-			"xpPerItem": 35,
-			"levelReq": 30
-		}
-	},
-	"mekanismtools:bronze_pickaxe":
-	{
-		"thermal:bronze_ingot":
-		{
-			"salvageMax": 3,
-			"baseChance": 15,
-			"chancePerLevel": 0.75,
-			"maxChance": 80,
-			"xpPerItem": 35,
-			"levelReq": 30
-		}
-	},
-	"mekanismtools:bronze_shovel":
-	{
-		"thermal:bronze_ingot":
-		{
-			"salvageMax": 1,
-			"baseChance": 15,
-			"chancePerLevel": 0.75,
-			"maxChance": 80,
-			"xpPerItem": 35,
-			"levelReq": 30
-		}
-	},
-	"mekanismtools:bronze_sword":
-	{
-		"thermal:bronze_ingot":
-		{
-			"salvageMax": 2,
-			"baseChance": 15,
-			"chancePerLevel": 0.75,
-			"maxChance": 80,
-			"xpPerItem": 35,
-			"levelReq": 30
-		}
-	},
-	"mekanismtools:lapis_lazuli_axe":
-	{
-		"minecraft:stick":
-		{
-			"salvageMax": 2,
-			"baseChance": 35,
-			"chancePerLevel": 2,
-			"maxChance": 80,
-			"xpPerItem": 2.5,
-			"levelReq": 40
-		}
-	},
-	"mekanismtools:lapis_lazuli_boots":
-	{
-		"minecraft:lapis_lazuli":
-		{
-			"salvageMax": 4,
-			"baseChance": 0.5,
-			"chancePerLevel": 0.5,
-			"maxChance": 80,
-			"xpPerItem": 75,
-			"levelReq": 40
-		}
-	},
-	"mekanismtools:lapis_lazuli_chestplate":
-	{
-		"minecraft:lapis_lazuli":
-		{
-			"salvageMax": 8,
-			"baseChance": 0.5,
-			"chancePerLevel": 0.5,
-			"maxChance": 80,
-			"xpPerItem": 75,
-			"levelReq": 40
-		}
-	},
-	"mekanismtools:lapis_lazuli_helmet":
-	{
-		"minecraft:lapis_lazuli":
-		{
-			"salvageMax": 5,
-			"baseChance": 0.5,
-			"chancePerLevel": 0.5,
-			"maxChance": 80,
-			"xpPerItem": 75,
-			"levelReq": 40
-		}
-	},
-	"mekanismtools:lapis_lazuli_hoe":
-	{
-		"minecraft:stick":
-		{
-			"salvageMax": 2,
-			"baseChance": 35,
-			"chancePerLevel": 2,
-			"maxChance": 80,
-			"xpPerItem": 2.5,
-			"levelReq": 40
-		}
-	},
-	"mekanismtools:lapis_lazuli_horse_armor":
-	{
-		"minecraft:lapis_lazuli":
-		{
-			"salvageMax": 7,
-			"baseChance": 0.5,
-			"chancePerLevel": 0.5,
-			"maxChance": 80,
-			"xpPerItem": 75,
-			"levelReq": 40
-		}
-	},
-	"mekanismtools:lapis_lazuli_leggings":
-	{
-		"minecraft:lapis_lazuli":
-		{
-			"salvageMax": 7,
-			"baseChance": 0.5,
-			"chancePerLevel": 0.5,
-			"maxChance": 80,
-			"xpPerItem": 75,
-			"levelReq": 40
-		}
-	},
-	"mekanismtools:lapis_lazuli_pickaxe":
-	{
-		"minecraft:stick":
-		{
-			"salvageMax": 2,
-			"baseChance": 35,
-			"chancePerLevel": 2,
-			"maxChance": 80,
-			"xpPerItem": 2.5,
-			"levelReq": 40
-		}
-	},
-	"mekanismtools:lapis_lazuli_shovel":
-	{
-		"minecraft:stick":
-		{
-			"salvageMax": 2,
-			"baseChance": 35,
-			"chancePerLevel": 2,
-			"maxChance": 80,
-			"xpPerItem": 2.5,
-			"levelReq": 40
-		}
-	},
-	"mekanismtools:lapis_lazuli_sword":
-	{
-		"minecraft:stick":
-		{
-			"salvageMax": 2,
-			"baseChance": 35,
-			"chancePerLevel": 2,
-			"maxChance": 80,
-			"xpPerItem": 2.5,
-			"levelReq": 40
-		}
-	},
-	"mekanismtools:osmium_axe":
-	{
-		"minecraft:stick":
-		{
-			"salvageMax": 2,
-			"baseChance": 35,
-			"chancePerLevel": 2,
-			"maxChance": 80,
-			"xpPerItem": 2.5,
-			"levelReq": 30
-		}
-	},
-	"mekanismtools:osmium_boots":
-	{
-		"mekanism:ingot_osmium":
-		{
-			"salvageMax": 4,
-			"baseChance": 15,
-			"chancePerLevel": 0.75,
-			"maxChance": 80,
-			"xpPerItem": 35,
-			"levelReq": 30
-		}
-	},
-	"mekanismtools:osmium_chestplate":
-	{
-		"mekanism:ingot_osmium":
-		{
-			"salvageMax": 8,
-			"baseChance": 15,
-			"chancePerLevel": 0.75,
-			"maxChance": 80,
-			"xpPerItem": 35,
-			"levelReq": 30
-		}
-	},
-	"mekanismtools:osmium_helmet":
-	{
-		"mekanism:ingot_osmium":
-		{
-			"salvageMax": 5,
-			"baseChance": 15,
-			"chancePerLevel": 0.75,
-			"maxChance": 80,
-			"xpPerItem": 35,
-			"levelReq": 30
-		}
-	},
-	"mekanismtools:osmium_hoe":
-	{
-		"minecraft:stick":
-		{
-			"salvageMax": 2,
-			"baseChance": 35,
-			"chancePerLevel": 2,
-			"maxChance": 80,
-			"xpPerItem": 2.5,
-			"levelReq": 30
-		}
-	},
-	"mekanismtools:osmium_horse_armor":
-	{
-		"mekanism:ingot_osmium":
-		{
-			"salvageMax": 7,
-			"baseChance": 15,
-			"chancePerLevel": 0.75,
-			"maxChance": 80,
-			"xpPerItem": 35,
-			"levelReq": 30
-		}
-	},
-	"mekanismtools:osmium_leggings":
-	{
-		"mekanism:ingot_osmium":
-		{
-			"salvageMax": 7,
-			"baseChance": 15,
-			"chancePerLevel": 0.75,
-			"maxChance": 80,
-			"xpPerItem": 35,
-			"levelReq": 30
-		}
-	},
-	"mekanismtools:osmium_pickaxe":
-	{
-		"minecraft:stick":
-		{
-			"salvageMax": 2,
-			"baseChance": 35,
-			"chancePerLevel": 2,
-			"maxChance": 80,
-			"xpPerItem": 2.5,
-			"levelReq": 30
-		}
-	},
-	"mekanismtools:osmium_shovel":
-	{
-		"minecraft:stick":
-		{
-			"salvageMax": 2,
-			"baseChance": 35,
-			"chancePerLevel": 2,
-			"maxChance": 80,
-			"xpPerItem": 2.5,
-			"levelReq": 30
-		}
-	},
-	"mekanismtools:osmium_sword":
-	{
-		"minecraft:stick":
-		{
-			"salvageMax": 2,
-			"baseChance": 35,
-			"chancePerLevel": 2,
-			"maxChance": 80,
-			"xpPerItem": 2.5,
-			"levelReq": 30
-		}
-	},
-	"mekanismtools:refined_glowstone_axe":
-	{
-		"minecraft:stick":
-		{
-			"salvageMax": 2,
-			"baseChance": 35,
-			"chancePerLevel": 2,
-			"maxChance": 80,
-			"xpPerItem": 2.5,
-			"levelReq": 45
-		}
-	},
-	"mekanismtools:refined_glowstone_boots":
-	{
-		"mekanism:ingot_refined_glowstone":
-		{
-			"salvageMax": 4,
-			"baseChance": 15,
-			"chancePerLevel": 0.75,
-			"maxChance": 80,
-			"xpPerItem": 35,
-			"levelReq": 45
-		}
-	},
-	"mekanismtools:refined_glowstone_chestplate":
-	{
-		"mekanism:ingot_refined_glowstone":
-		{
-			"salvageMax": 8,
-			"baseChance": 15,
-			"chancePerLevel": 0.75,
-			"maxChance": 80,
-			"xpPerItem": 35,
-			"levelReq": 45
-		}
-	},
-	"mekanismtools:refined_glowstone_helmet":
-	{
-		"mekanism:ingot_refined_glowstone":
-		{
-			"salvageMax": 5,
-			"baseChance": 15,
-			"chancePerLevel": 0.75,
-			"maxChance": 80,
-			"xpPerItem": 35,
-			"levelReq": 45
-		}
-	},
-	"mekanismtools:refined_glowstone_hoe":
-	{
-		"minecraft:stick":
-		{
-			"salvageMax": 2,
-			"baseChance": 35,
-			"chancePerLevel": 2,
-			"maxChance": 80,
-			"xpPerItem": 2.5,
-			"levelReq": 45
-		}
-	},
-	"mekanismtools:refined_glowstone_horse_armor":
-	{
-		"mekanism:ingot_refined_glowstone":
-		{
-			"salvageMax": 7,
-			"baseChance": 15,
-			"chancePerLevel": 0.75,
-			"maxChance": 80,
-			"xpPerItem": 35,
-			"levelReq": 45
-		}
-	},
-	"mekanismtools:refined_glowstone_leggings":
-	{
-		"mekanism:ingot_refined_glowstone":
-		{
-			"salvageMax": 7,
-			"baseChance": 15,
-			"chancePerLevel": 0.75,
-			"maxChance": 80,
-			"xpPerItem": 35,
-			"levelReq": 45
-		}
-	},
-	"mekanismtools:refined_glowstone_pickaxe":
-	{
-		"minecraft:stick":
-		{
-			"salvageMax": 2,
-			"baseChance": 35,
-			"chancePerLevel": 2,
-			"maxChance": 80,
-			"xpPerItem": 2.5,
-			"levelReq": 45
-		}
-	},
-	"mekanismtools:refined_glowstone_shovel":
-	{
-		"minecraft:stick":
-		{
-			"salvageMax": 2,
-			"baseChance": 35,
-			"chancePerLevel": 2,
-			"maxChance": 80,
-			"xpPerItem": 2.5,
-			"levelReq": 45
-		}
-	},
-	"mekanismtools:refined_glowstone_sword":
-	{
-		"minecraft:stick":
-		{
-			"salvageMax": 2,
-			"baseChance": 35,
-			"chancePerLevel": 2,
-			"maxChance": 80,
-			"xpPerItem": 2.5,
-			"levelReq": 45
-		}
-	},
-	"mekanismtools:refined_obsidian_axe":
-	{
-		"minecraft:stick":
-		{
-			"salvageMax": 2,
-			"baseChance": 35,
-			"chancePerLevel": 2,
-			"maxChance": 80,
-			"xpPerItem": 2.5,
-			"levelReq": 45
-		}
-	},
-	"mekanismtools:refined_obsidian_boots":
-	{
-		"mekanism:ingot_refined_obsidian":
-		{
-			"salvageMax": 4,
-			"baseChance": 15,
-			"chancePerLevel": 0.75,
-			"maxChance": 80,
-			"xpPerItem": 35,
-			"levelReq": 45
-		}
-	},
-	"mekanismtools:refined_obsidian_chestplate":
-	{
-		"mekanism:ingot_refined_obsidian":
-		{
-			"salvageMax": 8,
-			"baseChance": 15,
-			"chancePerLevel": 0.75,
-			"maxChance": 80,
-			"xpPerItem": 35,
-			"levelReq": 45
-		}
-	},
-	"mekanismtools:refined_obsidian_helmet":
-	{
-		"mekanism:ingot_refined_obsidian":
-		{
-			"salvageMax": 5,
-			"baseChance": 15,
-			"chancePerLevel": 0.75,
-			"maxChance": 80,
-			"xpPerItem": 35,
-			"levelReq": 45
-		}
-	},
-	"mekanismtools:refined_obsidian_hoe":
-	{
-		"minecraft:stick":
-		{
-			"salvageMax": 2,
-			"baseChance": 35,
-			"chancePerLevel": 2,
-			"maxChance": 80,
-			"xpPerItem": 2.5,
-			"levelReq": 45
-		}
-	},
-	"mekanismtools:refined_obsidian_horse_armor":
-	{
-		"mekanism:ingot_refined_obsidian":
-		{
-			"salvageMax": 7,
-			"baseChance": 15,
-			"chancePerLevel": 0.75,
-			"maxChance": 80,
-			"xpPerItem": 35,
-			"levelReq": 45
-		}
-	},
-	"mekanismtools:refined_obsidian_leggings":
-	{
-		"mekanism:ingot_refined_obsidian":
-		{
-			"salvageMax": 7,
-			"baseChance": 15,
-			"chancePerLevel": 0.75,
-			"maxChance": 80,
-			"xpPerItem": 35,
-			"levelReq": 45
-		}
-	},
-	"mekanismtools:refined_obsidian_pickaxe":
-	{
-		"minecraft:stick":
-		{
-			"salvageMax": 2,
-			"baseChance": 35,
-			"chancePerLevel": 2,
-			"maxChance": 80,
-			"xpPerItem": 2.5,
-			"levelReq": 45
-		}
-	},
-	"mekanismtools:refined_obsidian_shovel":
-	{
-		"minecraft:stick":
-		{
-			"salvageMax": 2,
-			"baseChance": 35,
-			"chancePerLevel": 2,
-			"maxChance": 80,
-			"xpPerItem": 2.5,
-			"levelReq": 45
-		}
-	},
-	"mekanismtools:refined_obsidian_sword":
-	{
-		"minecraft:stick":
-		{
-			"salvageMax": 2,
-			"baseChance": 35,
-			"chancePerLevel": 2,
-			"maxChance": 80,
-			"xpPerItem": 2.5,
-			"levelReq": 45
-		}
-	},
-	"mekanismtools:steel_axe":
-	{
-		"minecraft:stick":
-		{
-			"salvageMax": 2,
-			"baseChance": 35,
-			"chancePerLevel": 2,
-			"maxChance": 80,
-			"xpPerItem": 2.5,
-			"levelReq": 30
-		}
-	},
-	"mekanismtools:steel_boots":
-	{
-		"mekanism:ingot_steel":
-		{
-			"salvageMax": 4,
-			"baseChance": 15,
-			"chancePerLevel": 0.75,
-			"maxChance": 80,
-			"xpPerItem": 35,
-			"levelReq": 30
-		}
-	},
-	"mekanismtools:steel_chestplate":
-	{
-		"mekanism:ingot_steel":
-		{
-			"salvageMax": 8,
-			"baseChance": 15,
-			"chancePerLevel": 0.75,
-			"maxChance": 80,
-			"xpPerItem": 35,
-			"levelReq": 30
-		}
-	},
-	"mekanismtools:steel_helmet":
-	{
-		"mekanism:ingot_steel":
-		{
-			"salvageMax": 5,
-			"baseChance": 15,
-			"chancePerLevel": 0.75,
-			"maxChance": 80,
-			"xpPerItem": 35,
-			"levelReq": 30
-		}
-	},
-	"mekanismtools:steel_hoe":
-	{
-		"minecraft:stick":
-		{
-			"salvageMax": 2,
-			"baseChance": 35,
-			"chancePerLevel": 2,
-			"maxChance": 80,
-			"xpPerItem": 2.5,
-			"levelReq": 30
-		}
-	},
-	"mekanismtools:steel_horse_armor":
-	{
-		"mekanism:ingot_steel":
-		{
-			"salvageMax": 7,
-			"baseChance": 15,
-			"chancePerLevel": 0.75,
-			"maxChance": 80,
-			"xpPerItem": 35,
-			"levelReq": 30
-		}
-	},
-	"mekanismtools:steel_leggings":
-	{
-		"mekanism:ingot_steel":
-		{
-			"salvageMax": 7,
-			"baseChance": 15,
-			"chancePerLevel": 0.75,
-			"maxChance": 80,
-			"xpPerItem": 35,
-			"levelReq": 30
-		}
-	},
-	"mekanismtools:steel_pickaxe":
-	{
-		"minecraft:stick":
-		{
-			"salvageMax": 2,
-			"baseChance": 35,
-			"chancePerLevel": 2,
-			"maxChance": 80,
-			"xpPerItem": 2.5,
-			"levelReq": 30
-		}
-	},
-	"mekanismtools:steel_shovel":
-	{
-		"minecraft:stick":
-		{
-			"salvageMax": 2,
-			"baseChance": 35,
-			"chancePerLevel": 2,
-			"maxChance": 80,
-			"xpPerItem": 2.5,
-			"levelReq": 30
-		}
-	},
-	"mekanismtools:steel_sword":
-	{
-		"minecraft:stick":
-		{
-			"salvageMax": 2,
-			"baseChance": 35,
-			"chancePerLevel": 2,
-			"maxChance": 80,
-			"xpPerItem": 2.5,
 			"levelReq": 30
 		}
 	},

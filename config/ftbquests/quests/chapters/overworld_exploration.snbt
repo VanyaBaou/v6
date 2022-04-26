@@ -3338,11 +3338,6 @@
 			id: "52122AF969688FC0"
 			tasks: [
 				{
-					id: "192AC21FC7B3C20A"
-					type: "item"
-					item: "thermal:bronze_ingot"
-				}
-				{
 					id: "5E8F51BADE3EACC6"
 					type: "item"
 					title: "Any #forge:dusts/copper"
@@ -3363,18 +3358,6 @@
 						Count: 1b
 						tag: {
 							value: "forge:dusts/tin"
-						}
-					}
-				}
-				{
-					id: "567EDFA62C0C4D54"
-					type: "item"
-					title: "Any #forge:dusts/bronze"
-					item: {
-						id: "itemfilters:tag"
-						Count: 1b
-						tag: {
-							value: "forge:dusts/bronze"
 						}
 					}
 				}
