@@ -1,3 +1,4 @@
 {
-	"description.effect.mowziesmobs.poison_resist": "Grants immunity to poison."
+	"description.effect.mowziesmobs.poison_resist": "Grants immunity to poison.",
+	"entity.mowziesmobs.dart": "Dart"
 }
