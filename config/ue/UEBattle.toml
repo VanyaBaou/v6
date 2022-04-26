@@ -454,9 +454,9 @@
 
 		[general.base.fury]
 			#If the Enchantment is Obtainable
-			enabled = true
+			enabled = false
 			#If the Enchantment has any effect
-			activated = true
+			activated = false
 			#Minimum Enchantment Level
 			#Range: > 0
 			min_level = 1
@@ -467,7 +467,7 @@
 			#Allowed Values: COMMON, UNCOMMON, RARE, VERY_RARE
 			rarity = "RARE"
 			#If the Enchantment is a Treasure
-			treasure = true
+			treasure = false
 			#If the Enchantment is Tradeable by Villagers
 			tradeable = false
 			#Minimum Level for Enchanting
