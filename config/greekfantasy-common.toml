@@ -255,7 +255,7 @@
 
 	[mob_spawns.hydra_spawn]
 		#Range: 0 ~ 1000
-		chance = 4
+		chance = 1
 		whitelist = true
 		biome_types = ["SAVANNA", "SWAMP"]
 
