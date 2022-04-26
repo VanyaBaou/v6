@@ -2,7 +2,7 @@
 #Miscellaneous
 [miscellaneous]
 	#Disables thunder storms, fixing glitched lighting from thunder and other side-effects
-	enableStormTweak = true
+	enableStormTweak = false
 	#Prints your death point in chat
 	enableDeathPoint = true
 	#Show food hunger & saturation on item hover
