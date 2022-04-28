@@ -159,11 +159,6 @@ removeAndHide(<item:cavesandcliffs:deepslate_copper_ore>);
 
 
 for allItems in game.items {
-    if (allItems.owner == "spartanweaponry" || allItems.owner == "spartanshields") {
-		if ("_steel" in (allItems.registryName as string) || "_platinum" in (allItems.registryName as string)){
-			removeAndHide(allItems);
-		}
-    }
 	if (allItems.owner == "mysticalworld") {
 		if (!("spawn_egg" in (allItems.registryName as string)) && !(":silver_ore" in (allItems.registryName as string)) && ("silver" in (allItems.registryName as string) || "quicksilver" in (allItems.registryName as string))) {
 			removeAndHide(allItems);
