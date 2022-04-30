@@ -2390,5 +2390,18 @@
 "upgradednetherite:corrupt_upgraded_netherite_boots":
 	{
 		"endurance": 65
+	},	
+"artifacts:power_glove":
+	{
+		"combat": 10
+	},	
+"artifacts:lucky_scarf":
+	{
+		"mining": 10
+	},	
+"relics:reflection_necklace":
+	{
+		"magic": 4,
+		"endurance": 4
 	}
 }
