@@ -1391,5 +1391,19 @@
 		"agility": 6,
 		"combat": 3,
 		"archery": 9
+	},
+"environmental:thief_hood":
+	{
+		"agility": 25
+	},
+"mysticalworld:antler_hat":
+	{
+		"agility": 15,
+		"farming": 15
+	},
+"greekfantasy:nemean_lion_hide":
+	{
+		"combat": 20,
+		"endurance": 20
 	}
 }
