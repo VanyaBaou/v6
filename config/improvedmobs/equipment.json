@@ -1372,26 +1372,6 @@
       879,
       0.968
     ],
-    "ob_core:blade_of_northern_star": [
-      727,
-      2.184
-    ],
-    "ob_core:constructor_wrench": [
-      831,
-      1.352
-    ],
-    "ob_core:dawnbreaker": [
-      744,
-      2.048
-    ],
-    "ob_core:distortion_dagger": [
-      759,
-      1.928
-    ],
-    "ob_core:platinum_broadsword": [
-      711,
-      2.312
-    ],
     "pickletweaks:diamond_scythe": [
       711,
       2.312
@@ -3699,10 +3679,6 @@
       844,
       1.248
     ],
-    "ob_core:paladin_armor_boots": [
-      659,
-      2.728
-    ],
     "pickletweaks:emerald_boots": [
       618,
       3.056
@@ -4216,10 +4192,6 @@
     "mysticalworld:tin_leggings": [
       844,
       1.248
-    ],
-    "ob_core:paladin_armor_leggings": [
-      659,
-      2.728
     ],
     "pickletweaks:emerald_leggings": [
       618,
@@ -4954,14 +4926,6 @@
     "mysticalworld:tin_chestplate": [
       844,
       1.248
-    ],
-    "ob_core:obsidian_executioner_chestplate": [
-      387,
-      4.904
-    ],
-    "ob_core:paladin_armor_chestplate": [
-      659,
-      2.728
     ],
     "pickletweaks:emerald_chestplate": [
       618,
@@ -5776,18 +5740,6 @@
     "mysticalworld:tin_helmet": [
       844,
       1.248
-    ],
-    "ob_core:obsidian_executioner_helmet": [
-      387,
-      4.904
-    ],
-    "ob_core:paladin_armor_helmet": [
-      659,
-      2.728
-    ],
-    "ob_core:paladin_extra_helmet": [
-      550,
-      3.6
     ],
     "pickletweaks:emerald_helmet": [
       618,

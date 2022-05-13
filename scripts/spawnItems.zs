@@ -44,7 +44,6 @@ CTEventManager.register<MCPlayerTickEvent>((event) => {
 			spawnItems_constants.ticks = 0;
 			log("removing starter items for " + player.getName().getString(), player, false);
 			var inventory = player.getInventory();
-			inventory.remove(<item:ob_core:mysterious_box>);
 			inventory.remove(<item:patchouli:guide_book>.withTag({"patchouli:book": "the_afterlight:afterlight_tome" as string}));
 			player.updatePersistentData({spawnfix: 1});
 		}

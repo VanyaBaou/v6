@@ -61,8 +61,6 @@ public class miningLevel_constants {
 		
 		<block:ars_nouveau:arcane_ore> : {"min": 1, "max" : 60},
 		
-		<block:ob_core:platinum_ore> : {"min": 1, "max" : 24},
-		
 		<block:randomite:randomite_ore> : {"min": 1, "max" : 32},
 		
 		<block:iceandfire:amythest_ore> : {"min": 4, "max" : 32},

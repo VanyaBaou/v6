@@ -42,7 +42,6 @@
 	<item:buddycards:luminis_ore>,
 	<item:druidcraft:fiery_glass_ore>,
 	<item:druidcraft:rockroot_ore>,
-	<item:ob_core:platinum_ore>,
 	<item:randomite:randomite_ore>,
 	<item:stalwart_dungeons:chorundum_ore>,
 	<item:the_afterlight:moon_shard_ore>,
@@ -92,9 +91,6 @@
 <tag:items:forge:ores/tungsten>.add(
     <item:stalwart_dungeons:tungsten_ore>
 );
-<tag:items:forge:ores/platinum>.add(
-    <item:ob_core:platinum_ore>
-);
 <tag:items:forge:ores/silver>.add(
     <item:darkerdepths:raw_silver>
 );
@@ -129,7 +125,6 @@
 	<block:buddycards:luminis_ore>,
 	<block:druidcraft:fiery_glass_ore>,
 	<block:druidcraft:rockroot_ore>,
-	<block:ob_core:platinum_ore>,
 	<block:randomite:randomite_ore>,
 	<block:stalwart_dungeons:chorundum_ore>,
 	<block:the_afterlight:moon_shard_ore>,
@@ -178,9 +173,6 @@
 );
 <tag:blocks:forge:ores/tungsten>.add(
     <block:stalwart_dungeons:tungsten_ore>
-);
-<tag:blocks:forge:ores/platinum>.add(
-    <block:ob_core:platinum_ore>
 );
 <tag:blocks:forge:ores/amethyst>.add(
     <block:iceandfire:amythest_ore>
