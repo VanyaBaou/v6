@@ -50,7 +50,6 @@ craftingTable.removeByName("vanillafoodpantry:optional/blazerod_from_lava_sand")
 craftingTable.removeByName("vanillafoodpantry:optional/ender_eye_from_lava_sand");
 craftingTable.removeByName("vanillafoodpantry:optional/magma_cream_from_lava_sand");
 
-craftingTable.addShapeless("split_quartz", <item:minecraft:quartz> * 4, [<item:minecraft:quartz_block>]);
 
 craftingTable.removeRecipe(<item:prefab:block_glass_slab>);
 craftingTable.addShaped("slabs_glass", <item:prefab:block_glass_slab> * 4, [[<tag:items:forge:glass>], [<tag:items:forge:glass>]]);
